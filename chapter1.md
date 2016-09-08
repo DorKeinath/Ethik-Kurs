@@ -16,10 +16,14 @@ Arbeitsauftrag zu den Begriffen *Charakter*, *Werte* und *Tugend*
 ## PA
 Arbeitsauftrag zur Bewertung der gefundenen Begriffe
 ## PL
-Besprechung der Ergebnisse.
-Mögliche Fragen zur Bewertung
-* Inwiefern sind diese Arbeitsaufträge typisch für 
+### Besprechung der Ergebnisse
+Mögliche Fragen:
+
+* Inwiefern sind diese Arbeitsaufträge typisch für den Ethik-Unterricht?
 * Was zeichnen Tugenden aus?
 * Wie ist ihr Verhältnis zum Individuum und zur Gesellschaft?
-* Welchen Sinn hat es, euch diese Arbeitsaufträge zu geben?
+* Wie wird man ein tugendhafter Mensch?
+* **Bridge**: Welchen Sinn hat es, euch diese Arbeitsaufträge zu geben?
+# Information
+Prozessbezogene Kompetenzen
 
