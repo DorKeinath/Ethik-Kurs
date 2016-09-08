@@ -17,7 +17,9 @@ Arbeitsauftrag zu den Begriffen *Charakter*, *Werte* und *Tugend*
 Arbeitsauftrag zur Bewertung der gefundenen Begriffe
 ## PL
 Besprechung der Ergebnisse.
-> Was zeichnen Tugenden aus?
-> 
-> 
+Mögliche Fragen zur Bewertung
+* Inwiefern sind diese Arbeitsaufträge typisch für 
+* Was zeichnen Tugenden aus?
+* Wie ist ihr Verhältnis zum Individuum und zur Gesellschaft?
+* Welchen Sinn hat es, euch diese Arbeitsaufträge zu geben?
 
