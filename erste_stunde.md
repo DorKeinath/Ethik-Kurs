@@ -7,7 +7,7 @@
 # Informationen
 
 ## zum Fach Ethik
-* Definition, Themen und Ziele
+* Themen und Ziele
 * Protokoll. Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben.
 
 ## zur Notengebung
@@ -16,6 +16,8 @@
 
 
 # Erarbeitung
+## PL
+[Definition des Begriffs Ethik](http://xcosx.de/mgb/keineph-slides/slides/Ethisch-moralisch.html)
 
 ## EA
 Arbeitsauftrag zu den Begriffen *Charakter*, *Werte* und *Tugend*
