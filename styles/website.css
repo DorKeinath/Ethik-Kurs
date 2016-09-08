@@ -2,7 +2,7 @@
     margin-top: 1em;
 }
 .book .book-body .page-wrapper .page-inner section.normal h2 {
-    margin-bottom: -1.5em;
+    margin-bottom: .5em;
 }
 
 .book .book-body .page-wrapper .page-inner section.normal h1, h2 {
@@ -11,4 +11,10 @@
 
 .book .book-body .page-wrapper .page-inner section.normal blockquote {
     color: black;
+}
+
+.markdown-section h1, .markdown-section h2, .markdown-section h3, .markdown-section h4, .markdown-section h5, .markdown-section h6 {
+  font-weight: 700;
+  margin-bottom: 0.5em;
+  margin-top: 0.275em;
 }
