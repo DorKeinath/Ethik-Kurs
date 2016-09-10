@@ -1,42 +1,54 @@
-# Orga
-* Vorstellung
-* Namensschilder
-* E-Mail-Adressen
+# Erste Stunde
 
+[Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Erste_Stunde-Themen-Protokoll-Notengebung.html)
+
+# Einstieg
+
+**Sortier-Spiel**: Schüler stehen im Kreis vor ihren Stühlen. Norm, nicht auf Stühlen zu stehen wird missachtet, indem sie sich auf den Stühlen nach verschiedenen Kriterien sortieren.
+**Bridge** über Kommentare zum Begriff der Norm, Ethik-Unterricht, Kategorisieren/Ordnen, Relevanz von Kommunikation zur Orga.
+
+# Orga
+
+- Namensschilder
+- Fotos
+- E-Mail-Adressen
 
 # Informationen
 
 ## zum Fach Ethik
-* Themen und Ziele
-* Protokoll. Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben.
+
+- *Themen und Ziele*. Information über den Sinn, diese Struktur zukünftig mitzubringen, Kommentar über Verknüpfungen, Argumentationstechniken.
+- *Protokoll*. Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
 
 ## zur Notengebung
-* Gewichtung schriftlich:mündlich = 1:1
-* Kriterien für gute mündliche Mitarbeit
 
+- Gewichtung: schriftlich:mündlich = 1:1
+- *Kriterien für gute mündliche Mitarbeit*
 
-# Erarbeitung
-## PL
-[Definition des Begriffs Ethik](http://xcosx.de/mgb/keineph-slides/slides/Ethisch-moralisch.html)
+# Erarbeitung, Analyse, Bewertung
 
-## EA
-Arbeitsauftrag zu den Begriffen *Charakter*, *Werte* und *Tugend*
+## zum Begriff der Norm
+In EA werden [soziale](https://de.wikipedia.org/wiki/Soziale_Norm) oder religiöse Normen (Sitten, Gebräuche, Verbote, Gebote, Konventionen) gesucht. In PA bzw. 3er-Gruppen gewichtet. Im PL analysiert und weiter bewertet.
 
-# Bewertung und Sicherung
+Mögliche Fragen:
+* Wie entstehen Normen?
+* Gelten sie für jeden?
+* Gelten Normen überall?
+* Gelten sie immer/überzeitlich?
+* Was passiert, wenn man sich nicht an Normen hält?
+* Woran erkennt man eine gute Norm?
 
-## PA
-Arbeitsauftrag zur Bewertung der gefundenen Begriffe
+## Alternative
+Begriff des Charaters. Schüler suchen in EA positive Charaktereigenschaften, pinnen sie an die Tafel, sortieren sie in PA.
 
-## PL
-
-### Besprechung der Ergebnisse
 Mögliche Fragen:
 
-* Was zeichnenen aus?
-* Inwiefern sind diese Arbeitsaufträge typisch für den Ethik-Unterricht?
-* Wie ist ihr Verhältnis zum Individuum und zur Gesellschaft?
-* Wie wird man ein tugendhafter Mensch?
-* **Bridge**: Welchen Sinn hat es, euch diese Arbeitsaufträge zu geben? Erläutern Sie die Schritte, in denen Sie Kompetenzen bezüglich des Tugend-Begriffs erworben haben.
+- Was zeichnenen aus?
+- Inwiefern sind diese Arbeitsaufträge typisch für den Ethik-Unterricht?
+- Wie ist ihr Verhältnis zum Individuum und zur Gesellschaft?
+- Wie wird man ein tugendhafter Mensch?
 
-# Information
-Aufbau des Unterrichts: Prozessbezogene Kompetenzen
+# Informationen
+Zur Rolle von Normen in der Ethik. *Definition* des Begriffs Ethik.
+
+Zum Aufbau des Unterrichts: *Prozessbezogene Kompetenzen*.
