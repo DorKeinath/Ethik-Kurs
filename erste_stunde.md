@@ -1,4 +1,4 @@
-# Erste Stunde
+# == h1 Erste Stunde ==
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Erste_Stunde-Themen-Protokoll-Notengebung.html)
 
@@ -18,12 +18,16 @@
 ## zum Fach Ethik
 
 - *Themen und Ziele*. Information über den Sinn, diese Struktur zukünftig mitzubringen, Kommentar über Verknüpfungen, Argumentationstechniken.
-- *Protokoll*. Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
+- [Protokoll](protokoll.md). Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
 
 ## zur Notengebung
 
 - Gewichtung: schriftlich:mündlich = 1:1
 - *Kriterien für gute mündliche Mitarbeit*
+
+# Erarbeitung
+## PL
+[Definition des Begriffs Ethik](http://xcosx.de/mgb/keineph-slides/slides/Ethisch-moralisch.html)
 
 # Erarbeitung, Analyse, Bewertung
 
@@ -51,4 +55,4 @@ Mögliche Fragen:
 # Informationen
 Zur Rolle von Normen in der Ethik. *Definition* des Begriffs Ethik.
 
-Zum Aufbau des Unterrichts: *Prozessbezogene Kompetenzen*.
+Zum Aufbau des Unterrichts: *Prozessbezogene Kompetenzen* am Beispiel Fahrraddiebstahl.
