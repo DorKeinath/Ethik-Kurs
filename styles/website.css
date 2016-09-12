@@ -24,12 +24,18 @@
   margin-top: 12px;
 }
 
+.markdown-section b, .markdown-section strong {
+  font-weight: 700;
+  color: #058daf;
+}
+
 em {
-	color: #058daf;
+	/*color: #058daf;*/
 }
 
 .markdown-section a, .book.color-theme-1 .book-body .page-wrapper .page-inner section.normal a {
   color: #058daf;
+  font-style: italic;
 }
 
 .fa-facebook::before, .fa-twitter::before, .fa-share-alt::before {

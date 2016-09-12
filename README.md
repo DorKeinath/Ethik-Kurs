@@ -6,11 +6,15 @@ Du bist Ethik-Lehrer und willst bei diesem GitBook mitschreiben? Dann melde dich
 ## Hinweise zur Verwendung
 
 * Der Link Namens [Slides](http://xcosx.de/mgb/ethik-slides.php) führt jeweils zu den Präsentationsdateien der Unterrichtsstunde.
-* Farblich hinterlegter *kursiver Text* bedeutet, dass es dazu in den verlinkten Slides eine Folie oder ein Handout gibt.
-* Wer die Dateien der verwendeten [Mindmaps](https://github.com/DorKeinath/Mindmaps) bearbeiten will, kann das natürlich gerne tun.
+* **Fetter Text** bedeutet, dass es dazu in den verlinkten Slides eine Folie oder ein Handout gibt.
+* Die Quellcodes der Mindmaps und Slides stehen auch auf GitHub:
+  + [Mindmaps-Codes](https://github.com/DorKeinath/Mindmaps)
+  + [Slides-Codes](https://www.gitbook.com/book/dorkeinath/prasentationen/details)
+
 
 ## Abkürzungen
 
 * EA = Einzelarbeit
 * PA = Partnerarbeit
 * PL = Plenum
+* HA = Hausaufgabe

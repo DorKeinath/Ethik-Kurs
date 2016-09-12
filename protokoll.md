@@ -10,6 +10,10 @@
 
 Schicken Sie Ihr Protokoll bitte in einer normalen Text-Datei (nicht Microsoft Word) im [Markdown-Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
+Beispiele:
+1. Das ist *kursiv*.
+2. Das **fett**.
+
 ## Kontakt
 
 kei@...
@@ -26,6 +30,10 @@ kei@...
 ## Formatierung
 
 Schicken Sie Ihr Protokoll bitte in einer normalen Text-Datei (nicht Microsoft Word) im [Markdown-Format](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+Beispiele:
+1. Das ist *kursiv*
+2. Das **fett**.
 
 ## Kontakt
 
