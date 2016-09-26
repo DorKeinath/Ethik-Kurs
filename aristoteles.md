@@ -1,10 +1,12 @@
 = Aristoteles' Tugendethik: Teil 1 = (h2)
 
+[Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Aristoteles.html)
+
 # Org
 Protokoll
 
 # PL
-[HO Aristoteles](HOs/HO_Aristoteles.md). Erster Abschnitt.
+[HO Aristoteles](HO_Aristoteles.md). Erster Abschnitt.
 Exkurs zum Leben und Werk Aristoteles':
 Platon, Alexander, Wirkung als Philosoph und Wissenschaftler. Methode des Kategorisierens. Episteme, Wissenschaft: Herausheben des Gemeinsamen aus Vielem, Abstraktion des Besonderen; deduktive Beweise, Letztbegründbarkeit. Form und Materie.
 
