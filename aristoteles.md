@@ -6,10 +6,10 @@
 Protokoll
 
 # PL
-[HO Aristoteles](ho/HO_Aristoteles.md). Erster Abschnitt.
+[HO Aristoteles](Handouts/HO_Aristoteles.md). Erster Abschnitt.
+
 Exkurs zum Leben und Werk Aristoteles':
 Platon, Alexander, Wirkung als Philosoph und Wissenschaftler. Methode des Kategorisierens. Episteme, Wissenschaft: Herausheben des Gemeinsamen aus Vielem, Abstraktion des Besonderen; deduktive Beweise, Letztbegründbarkeit. Form und Materie.
-[HO Aristoteles](ho/HO_Aristoteles.pdf)
 
 # EA, GA
 
