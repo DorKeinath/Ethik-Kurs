@@ -27,9 +27,7 @@ h1, h2, h3, h4 {
 
 h1 {
 	font-size: 14px;
-	margin-top: 8px;
-/*	line-height: 25px;*/
-	/*color: teal;*/
+	margin-top: 14px;
 }
 
 h2 {
@@ -39,14 +37,17 @@ h2 {
 
 h3 {
 	font-size: 11px;
+	margin-top: 2px;
+	margin-bottom: 1px;
 }
 
 ul, ol {
-
+	margin-top: 0;
 }
 
 p {
 	margin-top: 0px;
+	text-align: justify;
 }
 
 strong {
@@ -57,8 +58,6 @@ a {
 	font-weight: 900;
 	font-style: italic;
 }
-
-
 
 /*.e-footer {
 	font-family: "Tex Gyre Heros","Source Sans Pro",sans-serif;
@@ -98,11 +97,35 @@ ol li:before {
 	font-size: 42px;
 }
 
+.lit, .lit a {
+	font-size: 8px;
+	margin-bottom: 5px;
+	font-weight: 400;
+}
+
+.kopf {
+	font-size: 10px;
+	text-align: center;;
+	width: 100%;
+	font-family: "Tex Gyre Heros","Source Sans Pro",sans-serif;
+	color: #777;
+	/*font-family: "Tex Gyre Heros","Source Sans Pro",sans-serif;*/
+	/*background-color: #fbfbfb;*/
+}
+
+.tags {
+}
+.tags:before {
+	content: "\221E";
+	/*content: "\2192";*/
+	font-weight: bold;
+}
+
 #pageFooter {
-    border-top: 0px solid #EEE;
-    padding-top: 5px;
-    color: #777;
-    font-size: 80%;
+  border-top: 0px solid #EEE;
+  padding-top: 10px;
+  color: #777;
+  font-size: 10px;
 	font-family: "Tex Gyre Heros","Source Sans Pro",sans-serif;
 	text-align: center;
 }

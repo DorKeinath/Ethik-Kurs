@@ -1,0 +1,2 @@
+# Naturalistische Fehlschluss
+Hume stellt fest, dass von einem Sein nicht auf ein Sollen geschlossen werden kann. Etwas eloquenter ausgedrückt: von rein *deskriptiven* Aussagen kann man nicht logisch auf *normative* Aussagen geschlossen werden. D.h. von Informationen und Beschreibungen von Tatsachen ausgehend, kann nicht unmittelbar auf einen Wert geschlossen werden. Aus einer Aussage, die einen Ist-Zustand beschreibt, kann logisch keine Forderung folgen.

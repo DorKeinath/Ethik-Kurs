@@ -1,13 +1,13 @@
-= Normen, Ethik und Ethikunterricht =
+= Normen, Ethik und Ethikunterricht = (h1)
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Normen_Ethik_und_Ethikunterricht.html)
 
-# Orga
+# Org
 
 - Namensschilder
 - Fotos
 - E-Mail-Adressen
-- [Protokoll](protokoll.md). Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
+- [Protokoll](HOs/protokoll.md). Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
 
 # Einstieg
 
@@ -21,6 +21,7 @@ In EA werden [soziale](https://de.wikipedia.org/wiki/Soziale_Norm) oder religiö
 
 Mögliche Fragen:
 
+- Welchen Sinn haben Normen?S
 - Gelten Normen für jeden? überall?
 - Gelten sie immer/überzeitlich?
 - Was kann passieren, wenn man sich nicht an Normen hält?
