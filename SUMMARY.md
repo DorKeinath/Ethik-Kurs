@@ -5,4 +5,5 @@
 * [Aristoteles' Tugendethik](aristoteles.md)
 
 * Handouts
-  * [Protokoll](protokoll.md)
+  * [Protokoll](Handouts/protokoll.md)
+  * [Aristoteles](Handouts/HO_Aristoteles.md)

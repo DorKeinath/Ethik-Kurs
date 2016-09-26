@@ -7,7 +7,7 @@
 - Namensschilder
 - Fotos
 - E-Mail-Adressen
-- [Protokoll](HOs/protokoll.md). Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
+- [Protokoll](Handouts/protokoll.md). Jede Stunde schreibt ein Schüler ein Protokoll. Dennoch sollte jeder Schüler für sich mitschreiben. Ein Schüler führt eine Liste. Ein Schüler ist heute dran.
 
 # Einstieg
 
