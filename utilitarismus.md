@@ -30,24 +30,23 @@ Analyse des Hauptsatzes
 ### Übung (Ozeanea)
 HO Bentham Hedonistisches Kalkül am Fall Ozeanos
 
-### Weitere Übungen in EA
+## Weitere Übungen in EA
 
-### Übung in WG (Leihmutterschaft)
-HO Fall Baby M
-Wichtige Argumente kann man zusammenstellen, indem man die Kriterien durchgeht und schaut, welches Argument hier das gewichtigste ist.
-Stärke: Doppelte Freude auf Seiten der Sterns.
-(Dauer: Längere Verlustgefühle auf Seiten Marys. Lange Lust der Sterns am Kind.)
-(Gewissheit: Auf beiden Seiten gleich.)
-(Nähe: Emotionen bei der Urteilsverkündung auf beiden Seiten.)
-Fruchtbarkeit:
-Akzeptanz eines Vertragsbruchs führt zu Misstrauen gegenüber Verträgen.
-Das Kind wächst bei den Sterns nicht optimal auf, weil keine emotionale Bindung während der Schwangerschaft möglich war.
-Erarbeitung
-Text von Bentham
-PPT Lebenslauf Benthams + Sein Menschenbild
-
-## Schluss
+## Stundenende
 Utilitaristische Argumentation, die Stunde früher zu beenden.
 
-Links zu Online-Literatur
+## Übung in WG (Leihmutterschaft)
+HO Fall Baby M
+
+Wichtige Argumente kann man zusammenstellen, indem man die Kriterien durchgeht und schaut, welches Argument hier das gewichtigste ist.
+
+* Stärke: Doppelte Freude auf Seiten der Sterns.
+* (Dauer: Längere Verlustgefühle auf Seiten Marys. Lange Lust der Sterns am Kind.)
+* (Gewissheit: Auf beiden Seiten gleich.)
+* (Nähe: Emotionen bei der Urteilsverkündung auf beiden Seiten.)
+* Fruchtbarkeit: Akzeptanz eines Vertragsbruchs führt zu Misstrauen gegenüber Verträgen. Das Kind wächst bei den Sterns nicht optimal auf, weil keine emotionale Bindung während der Schwangerschaft möglich war.
+
+
+
+Links zu Online-Literatur: 
 http://www.uni-potsdam.de/ethik-online/index.php/36-teilbereiche/ethische-theorien/util
