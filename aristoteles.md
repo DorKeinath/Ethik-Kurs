@@ -1,8 +1,10 @@
-= Aristoteles' Tugendethik: Teil 1 = (h2, h3, h4)
+= Aristoteles' Tugendethik: Teil 1 = (h2, h3, h4, h5)
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Aristoteles.html)
 
 # Lebensformen
+
+<!-- Es wäre gut, hier einen Energizer zu haben, der die Arbeit als Tugend in den Fokus rückt. -->
 
 ## PL
 
@@ -14,21 +16,21 @@ Exkurs zum Leben und Werk Aristoteles': Platon, Alexander, Wirkung als Philosoph
 
 Zwei Brainstormings an der Tafel:
 
-- **1000 €**. Was würdet ihr tun, wenn die Schulleithung euch für nächste Woche Schulfrei und dazu noch 1000 Euro geben würde?
+- **1000 €**. Was würdet ihr tun, wenn die Schulleithung euch für nächste Woche schulfrei und dazu noch 1000 Euro geben würde?
 - **Abitur**. Wie stellt ihr euch euer Leben zwischen Abitur und eurem Tod vor?
 
 Anschließend ein Unterrichtsgespräch, das evtl. auf Hauptbegriffe Aristoteles' führt (Lust, Glück, Streben, Ziele, Lebensformen).
 
 ## EA, GA, PL
 
-Die Schüler erarbeiten gruppenteilig die verschiedenen Lebensformen und präsentieren ihre Ergebnisse (Tabellen, Strukturmaps).
+Die Schüler erarbeiten gruppenteilig die verschiedenen Lebensformen und präsentieren ihre Ergebnisse.
 
 - Das Genußleben + Das Leben in den Geschäften
 - Bios politicos + Bios theoreticos
 
-Anschließend ordenen sie ihre anfänglichen Ziele den Kategorien zu.
+Anschließend ordenen sie ihre anfänglichen Ziele den Kategorien zu und bewerten die Lebensweisen.
 
-## Bewertung
+### Bewertung
 
 - Wie ist es euch beim Lesen des Textes ergangen? Was hilft dabei, einen Text zu verstehen?
 - Welche Textpassagen findet ihr bemerkenswert?
@@ -39,15 +41,6 @@ Anschließend ordenen sie ihre anfänglichen Ziele den Kategorien zu.
 
 
 # Hauptbegriffe
-
-## EA, PL
-Vertiefung des bios apolaustikos, Exkurs zu Hedonisten und Stoiker.
-HO Das Lustprinzip (HL 2014-3, Christina Geyer)
-HO YOLO bzw. Carpediem für Dummies (HL 2014-4, Greta Iührs)
-
-- Zu welcher Lebensform tendiert ihr?
-- Welche Erklärungen liefert Aristoteles dafür, dass viele Menschen das Genußleben oder das Leben in den Geschäften wählen? Kennt ihr weitere Erklärungen?
-- Ist die heutige Gesellschaft lustorientiert? Und ist das gut so wie's ist?
 
 ## PL
 
@@ -60,26 +53,40 @@ HO Aristoteles/Eudaimonie.
 - Wie stellt sich Aristoteles den Weg zum Glück vor?
 - Kann man das Glück wirklich (wie Aristoteles behauptet) erlangen (American Dream) oder muss man auf Gottes Gnade hoffen (Hiob)?
 
-HO Aristoteles/Seelenmodell Abschnitt 3 (Doppelter Vernunftsbegriff: Gehorsamkeit und Denken)
+HO Aristoteles/Seelenmodell Abschnitt 3
+* Doppelter Vernunftsbegriff: Gehorsamkeit und Denken
 * Seele als Form/Zweck des Körpers
-* Seelenteile: Vegetativ (Stoffwechsel), Wahrnehmend (wie Tiere), Rational (Mensch)
-* [Schema](http://www.eule2003.de/gbereich/g-Ethik/Eth12-1/plato-tug.pdf)
+* Seelenteile bei Platon: [Schema](http://philosophie.jankube.de/platon1.jpg)
+* Bei Aristoteles: Dianoethische und ethische Tugenden
 
 ## WG
 HO Aristoteles/Mesoteslehre, Phronesis, Habitus
 HO Übung zur Mesoteslehre
 
+* Beispiel: geizig, großzügig, verschwenderisch.
 * Ist die arithmetische Mitte gemeint?
 * Sollte man bei allem die Mitte anstreben?
 * Seht ihr das auch so, dass ältere Menschen mit Erfahrung klüger sind? Seht ihr den Vorteil, den diese Einstellung für junge Menschen mit sich bringt? (Weniger Verantwortung)
 * Welches Kriterium führt zur rechten Mitte? Was ist, wenn einer meint, die richtige Mitte gefunden zu haben, ihr aber anderer Meinung seid? (Kritik an Aristoteles)
 
 ## PL
-* Ethische und dianoethische Tugenden
-* Zoon logon echon
-* Syllogismen zur Vertiefung des bios theoreticos
+* Zoon politikon logon echon
+* Syllogismen zur Vertiefung des bios theoretikos
 
-## Bewertung insgesamt
+## EA, PL
+Zur Erläuterung der Aufgabe 2 in der nächsten Klausur oder zur Vertiefung des *bios apolaustikos*, Exkurs zu Hedonisten und Stoiker.
+HO Das Lustprinzip (HL 2014-3, Christina Geyer)
+
+Zur Erläuterung der Aufgabe 3 in der nächsten Klausur.
+HO YOLO bzw. Carpediem für Dummies (HL 2014-4, Greta Iührs)
+
+- Zu welcher Lebensform tendiert ihr?
+- Welche Erklärungen liefert Aristoteles dafür, dass viele Menschen das Genußleben oder das Leben in den Geschäften wählen? Kennt ihr weitere Erklärungen?
+- Ist die heutige Gesellschaft lustorientiert? Und ist das gut so wie's ist?
+
+## PL
+Bewertung insgesamt
+
 - Ist eine Orientierung an Tugenden noch modern? Welche Vorteile haben sie? (Beständigkeit)
 - Ist das Gute etwas Objektives?
 - Reicht es, wenn jeder im Privaten tugendhaft ist?
