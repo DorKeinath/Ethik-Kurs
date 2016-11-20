@@ -4,7 +4,7 @@
 * Unterrichtsstunden
   * [Normen, Ethik und Ethikunterricht](normen_ethik_und_ethikunterricht.md)
   * [Aristoteles' Tugendethik](aristoteles.md)
-  * [Ari](aristoteles.pdf)
+  * [Utilitarismus](utilitarismus.md)
 
 * Handouts
   * [Protokoll](Handouts/protokoll.md)
