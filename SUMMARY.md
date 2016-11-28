@@ -9,3 +9,4 @@
 * Handouts
   * [Protokoll](Handouts/protokoll.md)
   * [Aristoteles](Handouts/HO_Aristoteles.md)
+  * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
