@@ -4,7 +4,7 @@
 
 # Klassischer Utilitarismus
 
-## Energizer *Spiel ohne Regeln*
+## Spiel ohne Regeln
 Dieser Energizer verdeutlicht die Unzufriedenheit in Situationen, in denen nur Wenige das Sagen haben, und fokusieren den Begriff der Lust und Unlust. Der erste Aspekt verdeutlicht Benthams Situation der herrschenden Klasse, der zweite seine Ethik.
 
 Vier oder fünf Gruppen auf einem Spielfeld aus Blättern (evtl. mit Zahlen) auf dem Boden. Höchstens 6 Schüler pro Gruppe. Das letzte Blatt ist das Ziel und muss direkt erwürfelt werden. Die Gruppen beginnen auf ihnen zugewiesenen unterschiedlichen Blättern. Erreicht eine Gruppe ein Ereignisfeld (vorher markieren), darf sie eine Regel verkünden, die der Lehrer an der Tafel festhält.
@@ -16,11 +16,11 @@ Fragen
 * Wie hätten die Regeln aufgestellt werden müssen, damit alle zufrieden sind?
 * Wie sollten Gesetze aufgestellt werden?
 
-## PL
+## Erster Kontakt mit Bentham (auf Englisch)
 
-### Text jeweils Abschnitt 1
-1. Chapter IV => *Gesetzgeber* (Im deutschen Text Kap.8 "Über die Messung von Lust und Unlust".)
-2.  Chapter I => *pain and pleasure* auf dem Thron. Substitution der Kategorie gut/böse.
+### Text jeweils **Abschnitt 1**
+1. **Chapter IV** => *Gesetzgeber* (Im deutschen Text Kap.8 "Über die Messung von Lust und Unlust".)
+2. **Chapter I** => *pain and pleasure* auf dem Thron. Substitution der Kategorie gut/böse.
 
 ### Lebensumstände und Leben Benthams
 
@@ -30,19 +30,18 @@ Fragen
   + Kluft: armer Bevölkerung vs. wenige Gewinner des Industrialisierungskapitalismus
 - Gegner in Deutschland
   + Goethe: „höchst radikalen Narren“
-  + Marx: „Wenn ich die Courage meines Freundes H. Heine hätte, würde ich Herrn Jeremias ein Genie in der bürgerlichen Dummheit nennen.“
-- Bentham verfügte testamentarisch, dass sein Körper nach dem Tode präpariert und in einem Holzschaukasten im University College London ausgestellt wird. Im Falle großer Philosophen sei es gut, physische Präsenz zu bewahren, um so künftige Generationen von Denkern zu inspirieren. Sein Kopf wurde durch die Auto-Ikonisierung dermaßen verunstaltet, dass man für die Auto-Ikone ein Wachsmodell anfertigte.
+  + **Marx**: „Wenn ich die Courage meines Freundes H. Heine hätte, würde ich Herrn Jeremias ein Genie in der bürgerlichen Dummheit nennen.“
 
 ### Einstieg Fall "Christen den Löwen zum Fraß"
 * Verdeutlichung des Mehrheitsprinzips, das hier die Tat rechtfertigt:  Die Vorzüge für die Gesellschaft als Ganzes überwogen.
 * Evtl. Kritik der Schüler: Das Leid bestimmter Gruppen wurde nicht berücksichtigt.
 
 ### Moralisches Prinzip und moralische Maßstäbe
-Text Kap. 1, Abschnitt 2 und Abschnitt 3.
+Text **Kap. 1, Abschnitt 2** und **Abschnitt 3**.
 Analyse des Hauptsatzes
 
 ### Hedonistisches Kalkül
-PL: Text Chapter IV bzw. Kap. 8 Absätze 2 bis 4.
+PL: Text **Chapter IV** bzw. Kap. 8 **Absätze 2 bis 4**.
 PA: Übung. Eine Tabelle zur Berechnung des moralischen Wertes einer Handlung anhand des Falls "Christen den Löwen zum Fraß".
 PL: Reflexion
 * Sind Schwierigkeiten aufgetreten?
@@ -51,16 +50,14 @@ PL: Reflexion
 ### Übung zum hedonistischen Kalkül
 EA + GA
 Benthams hedonistisches Kalkül an den Fällen
-* Ozeanos
-* Diebstahl des Kopfes von Benthams
-* Mauer um Flüchtlingsheim
-
-## Weitere Übungen in EA
+* **Ozeanos**
+* **Diebstahl des Kopfes von Benthams**
+* **Mauer um Flüchtlingsheim**
 
 ## Stundenende
 Utilitaristische Argumentation, die Stunde früher zu beenden.
 
-## Übung in WG (Leihmutterschaft)
+## Fall Leihmutterschaft
 HO Fall Baby M
 
 Wichtige Argumente kann man zusammenstellen, indem man die Kriterien durchgeht und schaut, welches Argument hier das gewichtigste ist.
