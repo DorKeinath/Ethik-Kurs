@@ -22,7 +22,7 @@ Wenn doch jede Wissenschaft wie jedes praktische Vorhaben irgendein Gut zum Ziel
 
 ## Arten der Lebensführung
 ### Das Genußleben
-Unter dem Guten und der Glückseligkeit versteht im Anschluß an die tägliche Erfahrung der große Haufe und die Leute von niedrigster Gesinnung die Lustempfindung, und zwar wie man annehmen möchte, nicht ohne Grund. Sie haben deshalb ihr Genüge an einem auf den Genuß gerichteten Leben. [...] Der große Haufe bietet das Schauspiel, wie man mit ausgesprochenem Knechtssinn sich ein Leben nach der Art des lieben Viehs zurecht macht; und der Standpunkt erringt sich Ansehen, weil manche unter den Mächtigen der Erde Gesinnungen wie die eines Sardanapal teilen.
+Unter dem Guten und der Glückseligkeit versteht im Anschluß an die tägliche Erfahrung der große Haufen und die Leute von niedrigster Gesinnung die Lustempfindung, und zwar wie man annehmen möchte, nicht ohne Grund. Sie haben deshalb ihr Genüge an einem auf den Genuß gerichteten Leben. [...] Der große Haufen bietet das Schauspiel, wie man mit ausgesprochenem Knechtssinn sich ein Leben nach der Art des lieben Viehs zurecht macht; und der Standpunkt erringt sich Ansehen, weil manche unter den Mächtigen der Erde Gesinnungen wie die eines Sardanapal teilen.
 
 ### Das Leben in den Geschäften. Ehre, Tüchtigkeit, Güter
 Die vornehmeren Geister, die zugleich auf das Praktische gerichtet sind, streben nach Ehre; denn diese ist es doch eigentlich, die das Ziel des in den Geschäften aufgehenden Lebens bildet. Indessen, auch dieses ist augenscheinlich zu äußerlich, um für das Lebensziel, dem wir nachforschen, gelten zu dürfen. Dort hängt das Ziel, wie man meinen möchte, mehr von denen ab, die die Ehre erweisen, als von dem, der sie empfängt; unter dem höchsten Gute aber stellen wir uns ein solches vor, das dem Subjekte innerlich und unentreißbar zugehört.
@@ -44,7 +44,7 @@ Wir verstehen als Aufgabe des Menschen eine gewisse Art der Lebensführung, und 
 
 Was hindert also, denjenigen glücklich zu nennen, der in vollkommen edler Gesinnung tätig und mit äußeren Gütern hinlänglich ausgestattet ist, und das nicht während einer beliebigen Dauer, sondern in einem ganzen vollen Leben?
 
-### Mesoteslehre
+### Mesoteslehre, phronesis, habitus
 Somit ist denn sittliche Willensbeschaffenheit die zur Fertigkeit der Selbstentscheidung gewordene Gesinnung, die jedesmal für das Subjekt angemessene Mitte innezuhalten, wie sie gedankenmäßig bestimmt ist und wie der Mann von vollkommener Einsicht sie bestimmen würde.
 
 Mitte ist sie als zwischen zwei Irrwegen liegend, von denen der eine ein Überschreiten, der andere ein Zurückbleiben hinter dem Maß bedeutet; sie ist es auch dadurch, daß das Verfehlen das eine Mal ein Nichterreichen, das andere Mal ein Hinausgehen über das Pflichtgemäße in Affekten wie in Handlungen bedeutet, die Sittlichkeit aber die rechte Mitte findet und innehält. Ihrem Wesen und Begriffe nach, der das bleibende gestaltende  bezeichnet, ist also Sittlichkeit das Innehalten der Mitte.

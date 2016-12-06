@@ -2,12 +2,18 @@
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Utilitarismus.html)
 
+[Links zu Online-Literatur](http://www.uni-potsdam.de/ethik-online/index.php/36-teilbereiche/ethische-theorien/util)
+
+<!-- h1 -->
+
 # Klassischer Utilitarismus
 
-## Spiel ohne Regeln
+## Spiel ohne Regeln (Druchgang 1)
 Dieser Energizer verdeutlicht die Unzufriedenheit in Situationen, in denen nur Wenige das Sagen haben, und fokusieren den Begriff der Lust und Unlust. Der erste Aspekt verdeutlicht Benthams Situation der herrschenden Klasse, der zweite seine Ethik.
 
-Vier oder fünf Gruppen auf einem Spielfeld aus Blättern (evtl. mit Zahlen) auf dem Boden. Höchstens 6 Schüler pro Gruppe. Das letzte Blatt ist das Ziel und muss direkt erwürfelt werden. Die Gruppen beginnen auf ihnen zugewiesenen unterschiedlichen Blättern. Erreicht eine Gruppe ein Ereignisfeld (vorher markieren), darf sie eine Regel verkünden, die der Lehrer an der Tafel festhält.
+Vier oder fünf Gruppen stehen auf einem Spielfeld aus Blättern (z.B. 25 Zahlen). Höchstens 6 Schüler pro Gruppe. Das letzte Feld - auf ihm liegt ein Preis(!) - ist das Ziel. Die Gruppen beginnen auf ihnen zugewiesenen unterschiedlichen Feldern. Erreicht eine Gruppe ein Ereignisfeld (vorher ca. 5 Felder markieren), darf sie eine Regel festlegen, die der Lehrer an der Tafel festhält. Es gibt nur eine vorgegebene Regel: Wer auf das letzte Feld kommt, gewinnt.
+
+Danach wird die Zufriedenheit der Gruppe durch jeweils eine Markierung pro Schüler auf einer Skala festgehalten.
 
 Fragen
 * Was haben Sie beobachtet?
@@ -36,26 +42,52 @@ Fragen
 * Verdeutlichung des Mehrheitsprinzips, das hier die Tat rechtfertigt:  Die Vorzüge für die Gesellschaft als Ganzes überwogen.
 * Evtl. Kritik der Schüler: Das Leid bestimmter Gruppen wurde nicht berücksichtigt.
 
+<!-- h2 -->
+
 ### Moralisches Prinzip und moralische Maßstäbe
 Text **Kap. 1, Abschnitt 2** und **Abschnitt 3**.
 Analyse des Hauptsatzes
 
-### Hedonistisches Kalkül
+### Hedonistisches Kalkül + Tabellen + Bewertung
 PL: Text **Chapter IV** bzw. Kap. 8 **Absätze 2 bis 4**.
-PA: Übung. Eine Tabelle zur Berechnung des moralischen Wertes einer Handlung anhand des Falls "Christen den Löwen zum Fraß".
+PA: Übung. Die Schüler erstellen eine Tabelle zur Berechnung des moralischen Wertes einer Handlung anhand des Falls "Christen den Löwen zum Fraß".
 PL: Reflexion
 * Sind Schwierigkeiten aufgetreten?
 * Seid ihr mit dem Ergebnis zufrieden?
+=> **Kritik an Benthams Ethik**
 
-### Übung zum hedonistischen Kalkül
-EA + GA
-Benthams hedonistisches Kalkül an den Fällen
+<!-- h3 + h4 -->
+
+### Spiel ohne Regeln (Druchgang 2)
+Zwei unterschiedliche Preise vorgeben. Vorgegebene Regeln:
+1. Wer auf das letzte Feld (mit den Cookies) kommt, gewinnt.
+2. Die Waffeln bekommt die Gruppe, die zuletzt auf dem Waffel-Feld stand.
+
+Danach wieder die Messung der Zufriedenheit auf einer Skala. Vergleich mit der ersten Skala. Diskussion zur benthamschen Methode und Kritik derselben.
+=> **Kritik an Benthams Ethik**
+
+### Schreibübung zum hedonistischen Kalkül
+PL: Folie **Verfassen einer utilitaristischen Analyse nach Bentham**
+World-Café: Auf je einem DIN-A3-Blatt (1) Interessengruppen und (2) zugehörige ausschlaggebende Kriterien
+EA: Utilitaristische Argumentation zu einem der Fälle
+* **Lamborghini**
+* **Erbe**
+* **Rettungsboot**
 * **Ozeanos**
-* **Diebstahl des Kopfes von Benthams**
+* **Benthams Kopf**
 * **Mauer um Flüchtlingsheim**
 
-## Stundenende
+### Fall Stundenende
 Utilitaristische Argumentation, die Stunde früher zu beenden.
+
+<!-- h5 -->
+
+# Qualitativer Hedonismus
+
+
+
+
+
 
 ## Fall Leihmutterschaft
 HO Fall Baby M
@@ -67,8 +99,3 @@ Wichtige Argumente kann man zusammenstellen, indem man die Kriterien durchgeht u
 * (Gewissheit: Auf beiden Seiten gleich.)
 * (Nähe: Emotionen bei der Urteilsverkündung auf beiden Seiten.)
 * Fruchtbarkeit: Akzeptanz eines Vertragsbruchs führt zu Misstrauen gegenüber Verträgen. Das Kind wächst bei den Sterns nicht optimal auf, weil keine emotionale Bindung während der Schwangerschaft möglich war.
-
-
-
-Links zu Online-Literatur:
-http://www.uni-potsdam.de/ethik-online/index.php/36-teilbereiche/ethische-theorien/util

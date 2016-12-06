@@ -27,7 +27,7 @@ Das Thema ist einem der folgenden Themengebiete zuzuordnen und stellen eine Vert
 Unter [http://xcosx.de/aktuelle-ethische-themen](http://xcosx.de/aktuelle-ethische-themen) findet man eine Link-Liste, die bei der Themenwahl und -erarbeitung helfen kann.
 
 ## Zum Protokoll
-Auf dem Handout sollten die wichtigsten Zitate der behandelten Ethiken bzw. Philosophen aufgeführt werden, sowie die Grundpositionen zur ethischen Problematik. 
+Auf dem Handout sollten die wichtigsten Zitate der behandelten Ethiken bzw. Philosophen aufgeführt werden, sowie die Grundpositionen zur ethischen Problematik.
 
 ## Bewertungskriterien
 Eine GFS, die mit „Ich halte heute meine GFS...“ beginnt oder mit „... und das sind meine Quellen.“ endet, kann in den meisten Fällen mit höchstens 4 Notenpunkten bewertet werden.
