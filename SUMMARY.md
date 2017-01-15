@@ -4,7 +4,8 @@
 * Unterrichtsstunden
   * [Normen, Ethik und Ethikunterricht](normen_ethik_und_ethikunterricht.md)
   * [Aristoteles' Tugendethik](aristoteles.md)
-  * [Utilitarismus](utilitarismus.md)
+  * [Benthams Utilitarismus](utilitarismus_Bentham.md)
+  * [Kants Deontologische Ethik](kant_ki.md)
 
 * Handouts
   * [Protokoll](Handouts/protokoll.md)
