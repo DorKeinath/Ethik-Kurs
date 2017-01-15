@@ -1,5 +1,7 @@
 = Kant (h11-h)
 
+[Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Kant.html)
+
 # Kants Deontologische Ethik
 
 <!-- h1 -->

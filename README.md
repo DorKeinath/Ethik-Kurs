@@ -1,5 +1,5 @@
 # Einleitung
-Die hier dokumentierten Unterrichtsstunden sind meine Vorschläge für 2-stündige Oberstufenkurse in einem Gymnasium. Sie sind kompatibel mit den Bildungsplänen [1994](http://xcosx.de/Bildungsplan_1994_Ethik_G9.pdf), [2004](http://www.bildung-staerkt-menschen.de/service/downloads/Bildungsstandards/Gym/Gym_Eth_bs.pdf) und [2016](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH).
+Die hier dokumentierten Unterrichtsstunden sind meine Vorschläge für 2-stündige Oberstufenkurse in einem Gymnasium. Sie sind kompatibel mit den Bildungsplänen [1994](https://xcosx.de/wp-content/uploads/2017/01/Bildungsplan_1994_Ethik_G9.pdf), [2004](http://www.bildung-staerkt-menschen.de/service/downloads/Bildungsstandards/Gym/Gym_Eth_bs.pdf) und [2016](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH).
 
 Manche Energizer, Methoden und Ideen sind den sehr empfehlenswerten Unterrichtsstunden von [Lions-Quest](http://www.lions-quest.de/portal.html) entnommen.
 
