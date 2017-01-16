@@ -13,4 +13,4 @@
   * [Aristoteles](Handouts/HO_Aristoteles.md)
   * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
   * [Bentham-Fälle](Handouts/HO_Bentham-Fälle.md)
-  * [Werte](Handouts/HO_Werte.md)
+  * [Werte](HOs/HO_Werte.md)
