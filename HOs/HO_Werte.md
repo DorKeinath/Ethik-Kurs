@@ -1,4 +1,4 @@
-[pdf](HO_Werte.pdf)
+[pdf](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/HO_Werte.pdf)
 
 # Werte
 <div style="font-size:17px"> <!--Größe für 4 Seiten pro Seite -->
