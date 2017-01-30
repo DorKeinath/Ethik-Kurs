@@ -1,4 +1,6 @@
-[pdf - mit gedrückter Strg-Taste anklicken](HOs/HO_Werte.pdf) [pdf - auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/HO_Werte.pdf)
+[pdf - mit gedrückter Strg-Taste anklicken](HOs/HO_Werte.pdf)
+
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/HO_Werte.pdf)
 
 # Werte
 <div style="font-size:17px"> <!--Größe für 4 Seiten pro Seite -->

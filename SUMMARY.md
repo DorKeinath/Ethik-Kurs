@@ -8,9 +8,11 @@
   * [Werte-Spiel](werte-spiel.md)
   * [Kants Deontologische Ethik](kant_ki.md)
 
-* Handouts
-  * [Protokoll](Handouts/protokoll.md)
-  * [Aristoteles](Handouts/HO_Aristoteles.md)
+* HOs
+  * [Protokoll](HOs/protokoll.md)
+  * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
+  * [Aristoteles](HOs/HO_Aristoteles.md)
   * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
-  * [Bentham-Fälle](Handouts/HO_Bentham-Fälle.md)
+  * [Bentham-Fälle](HOs/HO_Bentham-Fälle.md)
+  * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
   * [Werte](HOs/HO_Werte.md)
