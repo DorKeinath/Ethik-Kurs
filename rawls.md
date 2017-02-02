@@ -6,7 +6,9 @@
 
 **Simulation** der Verteilung von 3/4 des Gesamtvermögens der Schüler auf 10 %.
 
-**Schleier des Nichtwissens** [John Rawls: A Theory Of Justice](https://books.google.de/books?id=tUEO9SuNG1oC&printsec=frontcover&dq=inauthor:%22John+RAWLS%22&hl=en&sa=X&ved=0ahUKEwiK36LGke3RAhVhJpoKHRbHB-0Q6AEIGjAA#v=onepage&q&f=false) <!-- HO Rawls - Urzustand - Schleier des Nichtwissens -->
+**Schleier des Nichtwissens**
+
+[John Rawls: A Theory Of Justice](https://books.google.de/books?id=tUEO9SuNG1oC&printsec=frontcover&dq=inauthor:%22John+RAWLS%22&hl=en&sa=X&ved=0ahUKEwiK36LGke3RAhVhJpoKHRbHB-0Q6AEIGjAA#v=onepage&q&f=false) <!-- HO Rawls - Urzustand - Schleier des Nichtwissens -->
 
 **S. 7** "Many different kinds ... of the economic and social system"
 
@@ -20,7 +22,7 @@
 
 - Welche Rolle spielen Gerechtigkeitsprinzipien?
 
-  - Sie regulieren dann die Wahl der Verfassung usw.
+  - Sie bilden die Grundlage bei der dann erfolgenden Wahl der Verfassung usw.
 
 **S. 12** "In justice as fairness ... bargain [Abmachung]"
 
@@ -32,16 +34,16 @@
     - Keine ungleiche Verhandlungsmacht
     - Niemand kennt seinen Platz in der Gesellschaft (Schicht, Intelligenz, Geschlecht)
 
-## WG
+## WG: Gehälterzuweisung
 
 1. Neue Verteilung der Gehälter. [HO_Rawls](HO/HO_Rawls.md)
 2. Festlegung von Gerechtigkeitsprinzipien.
 3. Diskussion über mögliche konkrete Gesetze, die aus diesen Prinzipien folgen könnten.
 4. Zuweisung der Berufe und Abfrage der Zufriedenheit.
 
-## PL: **Zwei Prinzipien**
+## PL: Zwei Prinzipien
 
-Gleichheitsprinzip und Differenzprinzip + Vorrang des ersteren.
+**Gleichheitsprinzip und Differenzprinzip + Vorrang des ersteren**
 
 ## EA: HO Nr.2
 

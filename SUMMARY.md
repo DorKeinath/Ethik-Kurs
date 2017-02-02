@@ -16,4 +16,5 @@
   * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
   * [Bentham-Fälle](HOs/HO_Bentham-Fälle.md)
   * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
+  * [Rawls](HOs/HO_Rawls.md)
   * [Werte](HOs/HO_Werte.md)
