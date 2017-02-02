@@ -1,6 +1,6 @@
-<!-- [pdf - mit gedrückter Strg-Taste anklicken](HOs/HO_Rawls_4SpS.pdf)
+[pdf - mit gedrückter Strg-Taste anklicken](HOs/HO_Rawls_4SpS.pdf)
 
-[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/HO_Rawls_4SpS.pdf) -->
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/HO_Rawls_4SpS.pdf)
 
 <div style="font-size : 27px">
 Stell dir vor, es soll eine Gesellschaft entstehen, in der alle Berufe mit Beamten besetzt und dadurch alle Gehälter einheitlich geregelt sind. Deine Position in dieser Gesellschaft steht noch nicht fest. Insgesamt stehen dir 30000 € zur Verfügung. Wie würdest du die folgenden Berufe entlohnen? <br><br>
