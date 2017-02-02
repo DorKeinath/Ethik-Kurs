@@ -1,6 +1,6 @@
-[pdf - mit gedrückter Strg-Taste anklicken](HOs/GFS-Vorgaben_Ethik_Kursstufe_1SpS.pdf)
+[pdf - mit gedrückter Strg-Taste anklicken](HOs/pdf/GFS-Vorgaben_Ethik_Kursstufe.pdf)
 
-[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/GFS-Vorgaben_Ethik_Kursstufe_1SpS.pdf)
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/GFS-Vorgaben_Ethik_Kursstufe.pdf)
 
 # GFS im Fach Ethik (Kursstufe)
 
