@@ -1,4 +1,4 @@
-[pdf - mit gedrückter Strg-Taste anklicken](HOs/pdf/GFS-Vorgaben_Ethik_Kursstufe.pdf)
+[pdf - mit gedrückter Strg-Taste anklicken](pdf/GFS-Vorgaben_Ethik_Kursstufe.pdf)
 
 [pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/GFS-Vorgaben_Ethik_Kursstufe.pdf)
 
