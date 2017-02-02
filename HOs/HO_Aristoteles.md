@@ -1,3 +1,7 @@
+[pdf - mit gedrückter Strg-Taste anklicken](pdf/HO_Aristoteles.pdf)
+
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/HO_Aristoteles.pdf)
+
 <div class="kopf">
 Moralphilosophie/Pflichtethik &ndash; Aristoteles (384-322 v. Chr.) <br>
 <!-- <div class="tags">

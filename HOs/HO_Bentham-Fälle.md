@@ -1,3 +1,7 @@
+[pdf - mit gedrückter Strg-Taste anklicken](pdf/HO_Bentham-Fälle.pdf)
+
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/HO_Bentham-Fälle.pdf)
+
 # Fall Lamborghini
 Herr J ist steinreich. Er ist im Besitz von mehreren Yachten, Villen auf der ganzen Welt und einer eigenen Golfanlage. Herr J ist nach eigenen Angaben auch wunschlos glücklich. Nur eine Kleinigkeit hätte er gerne noch - einen Lamborghini Diablo SV. Dieses Fahrzeug war schon zu seiner Kindzeit sein absoluter Traumwagen. Jetzt ist es endlich an der Zeit und Herr J hat die Entscheidung gefällt, sich das Auto zu kaufen. Er trifft sich mit dem hiesigen Lamborghini-Händler und kauf den Wagen. Herr J ist überglücklich. Das einzige, was er noch tun muss, ist die Rechnung für den Wagen zu überweisen. Dann geschieht das Missgeschick. In der Überweisung ist ein Zahlendreher und die 2,6 Mio € gehen an eine Hilfsorganisation für geistig Behinderte Kinder nach Somalia. Herr J wollte seinen Traumwagen, den er nun wieder abzugeben hat, weil der Verkäufer ihm den Fauxpas nicht glaubt, und hat an dessen statt tausende Kinder unterstützt.
 

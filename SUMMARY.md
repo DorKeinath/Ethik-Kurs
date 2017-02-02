@@ -10,12 +10,12 @@
   * [Rawls](rawls.md)
 
 * HOs
-  * [Protokoll](HOs/protokoll.md)
-  * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
   * [Aristoteles](HOs/HO_Aristoteles.md)
   * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
   * [Bentham-Fälle](HOs/HO_Bentham-Fälle.md)
-  * [GFS-Vorgaben](HOs/GFS-Vorgaben_Ethik_Kursstufe.md)
   * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
-  * [Rawls](HOs/HO_Rawls.md)
+  * [Rawls - Gehälter](HOs/HO_Rawls.md)
+  * [GFS-Vorgaben](HOs/GFS-Vorgaben_Ethik_Kursstufe.md)
+  * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
+  * [Protokoll](HOs/Protokoll.md)
   * [Werte](HOs/HO_Werte.md)

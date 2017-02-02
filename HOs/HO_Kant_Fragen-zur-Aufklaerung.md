@@ -1,6 +1,6 @@
-[pdf - mit gedrückter Strg-Taste anklicken](HOs/HO_Kant_Fragen-zur-Aufklaerung_2SpS.pdf)
+[pdf - mit gedrückter Strg-Taste anklicken](pdf/HO_Kant_Fragen-zur-Aufklaerung_2SpS.pdf)
 
-[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/HO_Kant_Fragen-zur-Aufklaerung_2SpS.pdf)
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/HO_Kant_Fragen-zur-Aufklaerung_2SpS.pdf)
 
 # Fragen zur Hinführung an Kants Begriff der Aufklärung
 
