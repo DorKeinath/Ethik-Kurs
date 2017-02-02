@@ -7,6 +7,7 @@
   * [Benthams Utilitarismus](utilitarismus_Bentham.md)
   * [Werte-Spiel](werte-spiel.md)
   * [Kants Deontologische Ethik](kant_ki.md)
+  * [Rawls](rawls.md)
 
 * HOs
   * [Protokoll](HOs/protokoll.md)

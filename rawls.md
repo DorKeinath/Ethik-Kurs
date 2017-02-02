@@ -49,6 +49,9 @@ Deutscher Text zur Vertiefung.
 
 ## PL: Kritik
 
+* Taugt Rawls Ethik zur Lösung von Gerechtigkeitsfragen?
+* Welche Vor- und Nachteile zu Hobbes' und Benthams Ethik seht ihr?
+
 - Vorteil gegenüber Hobbes: Inhaltliche Zustimmung aller und Identifikation mit den Prinzipien und daraus sich ergebenden Gesetzen.
 - Vorteil gegenüber Bentham: Identifikation mit den Prinzipien erfordert weniger Universalität als als Prinzip der Nutzenmaximierung verlangt wird, und ist damit stabiler.
 - Welche Verteilung wählt ihr: eine konservative {4,5,6} ("Maximin-Prinzip") oder eine, die die Summe des Glücks maximiert {2, 12, 25}?
