@@ -15,6 +15,7 @@
   * [Aristoteles](HOs/HO_Aristoteles.md)
   * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
   * [Bentham-Fälle](HOs/HO_Bentham-Fälle.md)
+  * [GFS-Vorgaben](HOs/GFS-Vorgaben_Ethik_Kursstufe.md)
   * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
   * [Rawls](HOs/HO_Rawls.md)
   * [Werte](HOs/HO_Werte.md)
