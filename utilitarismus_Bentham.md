@@ -1,4 +1,4 @@
-= Utilitarismus (h6-h10)
+= Utilitarismus Teil 1 (h6-h10) =
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Utilitarismus.html)
 
@@ -44,11 +44,11 @@ Fragen
 
 <!-- h2 -->
 
-### Moralisches Prinzip und moralische Maßstäbe
+## Moralisches Prinzip und moralische Maßstäbe
 Text **Kap. 1, Abschnitt 2** und **Abschnitt 3**.
 Analyse des Hauptsatzes
 
-### Hedonistisches Kalkül + Tabellen + Bewertung
+## Hedonistisches Kalkül + Tabellen + Bewertung
 PL: Text **Chapter IV** bzw. Kap. 8 **Absätze 2 bis 4**.
 PA: Übung. Die Schüler erstellen eine Tabelle zur Berechnung des moralischen Wertes einer Handlung anhand des Falls "Christen den Löwen zum Fraß".
 PL: Reflexion
@@ -58,7 +58,7 @@ PL: Reflexion
 
 <!-- h3 + h4 + h5 -->
 
-### Spiel ohne Regeln (Druchgang 2)
+## Spiel ohne Regeln (Druchgang 2)
 Zwei unterschiedliche Preise vorgeben. Vorgegebene Regeln:
 1. Wer auf das letzte Feld (mit den Cookies) kommt, gewinnt.
 2. Die Waffeln bekommt die Gruppe, die zuletzt auf dem Waffel-Feld stand.
@@ -66,7 +66,7 @@ Zwei unterschiedliche Preise vorgeben. Vorgegebene Regeln:
 Danach wieder die Messung der Zufriedenheit auf einer Skala. Vergleich mit der ersten Skala. Diskussion zur benthamschen Methode und Kritik derselben.
 => **Kritik an Benthams Ethik**
 
-### Schreibübung zum hedonistischen Kalkül
+## Schreibübung zum hedonistischen Kalkül
 PL: Folie **Verfassen einer utilitaristischen Analyse nach Bentham**
 World-Café: Auf je einem DIN-A3-Blatt (1) Interessengruppen und (2) zugehörige ausschlaggebende Kriterien
 EA + HA: Utilitaristische Argumentation zu einem der Fälle
@@ -78,5 +78,5 @@ EA + HA: Utilitaristische Argumentation zu einem der Fälle
 * **Mauer um Flüchtlingsheim**
 PL: Präsentation und Besprechung einiger Texte.
 
-### Fall Stundenende
+## Fall Stundenende
 Utilitaristische Argumentation, die Stunde früher zu beenden.

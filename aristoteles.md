@@ -1,4 +1,4 @@
-= Aristoteles' Tugendethik: Teil 1 = (h2, h3, h4, h5)
+= Aristoteles Teil 1 (h2, h3, h4, h5) =
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Aristoteles.html)
 

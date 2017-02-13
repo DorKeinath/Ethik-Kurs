@@ -1,13 +1,16 @@
 # Inhalt
 
 * [Einleitung](README.md)
-* Unterrichtsstunden
+* Unterrichtsstunden in J1
   * [Normen, Ethik und Ethikunterricht](normen_ethik_und_ethikunterricht.md)
   * [Aristoteles' Tugendethik](aristoteles.md)
   * [Benthams Utilitarismus](utilitarismus_Bentham.md)
   * [Werte-Spiel](werte-spiel.md)
   * [Kants Deontologische Ethik](kant_ki.md)
+
+* Unterrichtsstunden in J2
   * [Rawls](rawls.md)
+  * [Straftheorien](straftheorien.md)
 
 * HOs
   * [Aristoteles](HOs/HO_Aristoteles.md)
@@ -18,4 +21,5 @@
   * [GFS-Vorgaben](HOs/GFS-Vorgaben_Ethik_Kursstufe.md)
   * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
   * [Protokoll](HOs/Protokoll.md)
+  * [Operatoren](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH_OP)
   * [Werte](HOs/HO_Werte.md)

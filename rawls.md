@@ -1,4 +1,4 @@
-= Rawls (J2)
+= Rawls (J2) =
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Rawls.html)
 
@@ -18,7 +18,7 @@
 
 - Um welchen Begriff der Gerechtigkeit geht es Rawls?
 
-  - Um soziale Gerechtigkeit, d.h. um die von Institutionen festgelegten Sätze, die das Leben des Bürgers betreffen.
+  - Um soziale Gerechtigkeit im Sinne der die von Institutionen festgelegten Sätzen, die das Leben des Bürgers betreffen.
 
 - Geht Rawls von der Gleichheit der Menschen aus?
 
@@ -38,6 +38,13 @@
     - Keine ungleiche Verhandlungsmacht
     - Niemand kennt seinen Platz in der Gesellschaft (Schicht, Intelligenz, Geschlecht)
 
+### Sicherung
+Gesellschaft als Interessenkollektiv + Schleier des Nichtwissens
+=> Konsensbildung über Gerechtigkeitsprinzipien
+=> Insitutionengerechtigkeit
+=> Interessenharmonie
+
+
 ## WG: Gehälterzuweisung
 
 1. Neue Verteilung der Gehälter. [HO_Rawls](HO/HO_Rawls.md)
@@ -51,13 +58,17 @@
 
 ## EA: HO Nr.2
 
-Deutscher Text zur Vertiefung.
+Deutscher Text zur Vertiefung. <!-- HO - Rawls - Theorie der Gerechtigkeit -->
 
 ## PL: Kritik
 
-* Taugt Rawls Ethik zur Lösung von Gerechtigkeitsfragen?
-* Welche Vor- und Nachteile zu Hobbes' und Benthams Ethik seht ihr?
+1. Taugt Rawls Ethik zur Lösung von Gerechtigkeitsfragen?
+2. Welche Vor- und Nachteile zu Hobbes' und Benthams Ethik seht ihr?
+3. Bei Hobbes gelten Gesetze allein aufgrund ihrer Setzung durch den Leviathan; Das Recht hat hier nichts mit Gerechtigkeit zu tun. Welche Bedingung würde Rawls (oder auch Habermas) für die Gültigkeit eines Gesetzes formulieren?
 
-- Vorteil gegenüber Hobbes: Inhaltliche Zustimmung aller und Identifikation mit den Prinzipien und daraus sich ergebenden Gesetzen.
-- Vorteil gegenüber Bentham: Identifikation mit den Prinzipien erfordert weniger Universalität als als Prinzip der Nutzenmaximierung verlangt wird, und ist damit stabiler.
-- Welche Verteilung wählt ihr: eine konservative {4,5,6} ("Maximin-Prinzip") oder eine, die die Summe des Glücks maximiert {2, 12, 25}?
+- Vorteil gegenüber Hobbes: Inhaltliche Zustimmung aller und Identifikation mit den Prinzipien und den sich daraus ergebenden Gesetzen.
+- Vorteil gegenüber Bentham: Identifikation mit den Prinzipien erfordert weniger Universalität als beim Prinzip der Nutzenmaximierung verlangt wird, und ist damit für den Einzelnen leichter.
+- Welche Verteilung wählt ihr: eine konservative {4,5,6} (*Maximin-Prinzip*) oder eine, die die Summe des Glücks maximiert {2, 12, 25}? Eine risikobereite Wahl würde Rawls irritieren.
+- Gegenüberstellung von Hobbes' Rechtspositivismus mit Rawls' Fairness oder Habermas' *Diskurstheorie des Rechts*.
+
+<!-- Weitere Kritikpunkte siehe C.C.Buchner -->

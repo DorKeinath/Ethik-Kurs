@@ -1,4 +1,4 @@
-= Normen, Ethik und Ethikunterricht = (h1)
+= Normen, Ethik und Ethikunterricht (h1) =
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Normen_Ethik_und_Ethikunterricht.html)
 
