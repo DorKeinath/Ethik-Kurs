@@ -7,6 +7,7 @@
   * [Benthams Utilitarismus](utilitarismus_Bentham.md)
   * [Werte-Spiel](werte-spiel.md)
   * [Kants Deontologische Ethik](kant_ki.md)
+  * [Terror - Ihr Urteil](terror_ihr_urteil.md)
 
 * Unterrichtsstunden in J2
   * [Rawls](rawls.md)
