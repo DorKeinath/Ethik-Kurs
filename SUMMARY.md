@@ -12,6 +12,7 @@
 * Unterrichtsstunden in J2
   * [Rawls](rawls.md)
   * [Straftheorien](straftheorien.md)
+  * [Menschenwürde](menschenwuerde.md)
 
 * HOs
   * [Aristoteles](HOs/HO_Aristoteles.md)
