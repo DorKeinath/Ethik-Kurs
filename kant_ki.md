@@ -97,11 +97,9 @@ Einstiegszitate **Gesetze zum Umgang mit Sklaven**.
 
 ## WG: KI
 
-Jeder Schüler formuliert einen kategorischen Imperativ.
+Jeder Schüler formuliert einen kategorischen Imperativ. Während der Präsentation ihrer Ergebnisse im Plenum vergleichen ihre Vorschläge und diskutieren darüber, wie der KI lauten müsste. Dabei werden - durch den Lehrer angeregt - die Begriffe *Gesetz*, *Maxime* und *hypothetischer Imperativ* von *kategorischem Imperativ* unterschieden.
 
-Die Schüler vergleichen ihre Vorschläge und diskutieren darüber, wie der KI lauten müsste.
-
-Die Schüler vergleichen ihre Vorschläge mit Kants Formulierung.
+Die Schüler vergleichen ihre Vorschläge mit **Kants KI**.
 
 ## PL: Anwendung der Mensch-Zweck-Formel
 

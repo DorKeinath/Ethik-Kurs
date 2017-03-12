@@ -1,6 +1,6 @@
 = Rawls (J2) =
 
-[Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Rawls.html)
+[Slides](http://xcosx.de/mgb/keineph-slides/slides/Rawls.html)
 
 # Rawls
 
