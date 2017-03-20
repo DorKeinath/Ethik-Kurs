@@ -1,11 +1,13 @@
 # Einleitung
-Die hier dokumentierten Unterrichtsstunden sind meine Vorschläge für 2-stündige Oberstufenkurse in einem Gymnasium. Sie sind kompatibel mit den Bildungsplänen [1994](https://xcosx.de/wp-content/uploads/2017/01/Bildungsplan_1994_Ethik_G9.pdf), [2004](http://www.bildung-staerkt-menschen.de/service/downloads/Bildungsstandards/Gym/Gym_Eth_bs.pdf) und [2016](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH).
+Die hier dokumentierten Unterrichtsstunden sind meine Vorschläge für 2-stündige Oberstufenkurse in einem Gymnasium. Sie sind vereinbar mit den Bildungsplänen [1994](https://xcosx.de/wp-content/uploads/2017/01/Bildungsplan_1994_Ethik_G9.pdf), [2004](http://www.bildung-staerkt-menschen.de/service/downloads/Bildungsstandards/Gym/Gym_Eth_bs.pdf) und [2016](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH).
 
 Manche Energizer, Methoden und Ideen sind den sehr empfehlenswerten Unterrichtsstunden von [Lions-Quest](http://www.lions-quest.de/portal.html) entnommen.
 
 Du bist Ethik-Lehrer und willst bei diesem GitBook mitschreiben oder Ideen beitragen? Dann melde dich bei mir oder klicke auf ein "+", um an der entsprechenden Stelle eine Anmerkung zu machen.
 
-*NEU* Wenn du dich über Ethik-Unterricht austauschen möchtest, kannst du gerne der [Ethik-Konferenz](https://xcosx.de/ethik-konferenz/) beitreten.
+## Chatraum
+
+Wenn du dich über Ethik-Unterricht austauschen möchtest, kannst du gerne der [Ethik-Konferenz](https://xcosx.de/ethik-konferenz/) beitreten.
 
 
 ## Hinweise zur Verwendung
