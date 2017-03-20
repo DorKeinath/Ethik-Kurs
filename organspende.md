@@ -27,7 +27,7 @@ Quellen der Texte:
 
 
 # PL: Reflexion
-Die Schüler reflektieren anhand der **Fragen** die (notierten) Argumente.
+Die Schüler reflektieren anhand von **Fragen** die (notierten) Argumente.
 
 # EA: Organspendeausweis ausfüllen
 Wer möchte, kann sich einen **Organspendeausweis** ausfüllen.

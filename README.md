@@ -21,7 +21,7 @@ Wenn du dich über Ethik-Unterricht austauschen möchtest, kannst du gerne der [
   + [Slides-Codes](https://www.gitbook.com/book/dorkeinath/prasentationen/details)
 
 
-## Abkürzungen
+### Abkürzungen
 
 * EA = Einzelarbeit
 * PA = Partnerarbeit

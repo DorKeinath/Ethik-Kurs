@@ -6,7 +6,7 @@ Der Lehrer zeigt eine Vorlage für eine **Patientenverfügung** und diskutiert m
 
 # PL: Handlungstypen von Ärzten
 
-Die Schüler erläutern ihre unterschiedlichen Erfahrungen mit Ärzten. Es folgt eine Kategorisierung der unterschiedlichen Einstellungen eines Arztes gegenüber einem Patienten.
+Die Schüler erläutern ihre unterschiedlichen Erfahrungen mit Ärzten. Daraus folgt oder danach präsentiert der Lehrer eine Kategorisierung der unterschiedlichen Einstellungen eines Arztes gegenüber einem Patienten.
 
 <!-- opd Folie Nr. 5 -->
 
@@ -18,9 +18,9 @@ Die Schüler führen eine Recherche zu Erziehungsstilen durch.
 
 ## PA+PL: Szenen
 
-Die eine Hälfte des Kurses legt sich eine Szene zurecht, in der jemand auf problematische Weise erzieht; die andere Hälfte eine, in der sich ihrer Meinung nach ein guter Erziehungsstil zeigt.
+Jeweils zu dritt legen sich die Schüler zwei Szenen zurecht, in denen unterschiedliche Erziehungsstile sichtbar werden.
 
-Die Szenen werden präsentiert und mögliche Erziehungsstile zugewiesen und bewertet.
+Die Szenen werden vorgespielt und mögliche Erziehungsstile zugewiesen und bewertet.
 
 ## PL: Sicherung
 
