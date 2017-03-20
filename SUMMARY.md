@@ -9,6 +9,7 @@
   * [Kants Deontologische Ethik](kant_ki.md)
   * [Terror - Ihr Urteil](terror_ihr_urteil.md)
   * [Organspende](organspende.md)
+  * [Erziehungsstile](erziehungsstile.md)
 
 * Unterrichtsstunden in J2
   * [Rawls](rawls.md)
