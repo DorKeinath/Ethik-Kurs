@@ -10,20 +10,24 @@
   * [Terror - Ihr Urteil](terror_ihr_urteil.md)
   * [Organspende](organspende.md)
   * [Erziehungsstile](erziehungsstile.md)
+  * [Kohlberg](kohlberg.md)
 
 * Unterrichtsstunden in J2
   * [Rawls](rawls.md)
   * [Straftheorien](straftheorien.md)
   * [Menschenwürde](menschenwuerde.md)
+  * [Freiheit](freiheit.md)
 
 * HOs
   * [Aristoteles](HOs/HO_Aristoteles.md)
   * [Bentham](http://www.joachimschmid.ch/docs/PAzBenthJerEinPriM.pdf)
   * [Bentham-Fälle](HOs/HO_Bentham-Fälle.md)
-  * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
-  * [Rawls - Gehälter](HOs/HO_Rawls.md)
+  * [Determinationen](HOs/HO_Determination.md)
   * [GFS-Vorgaben](HOs/GFS-Vorgaben_Ethik_Kursstufe.md)
-  * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
-  * [Protokoll](HOs/Protokoll.md)
+  * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
+  * [Kohlberg](HOs/HO_Kohlberg.md)
   * [Operatoren](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH_OP)
+  * [Protokoll](HOs/Protokoll.md)
+  * [Rawls - Gehälter](HOs/HO_Rawls.md)
+  * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
   * [Werte](HOs/HO_Werte.md)

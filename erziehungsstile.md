@@ -22,7 +22,7 @@ Jeweils zu dritt legen sich die Schüler zwei Szenen zurecht, in denen unterschi
 
 Die Szenen werden vorgespielt und mögliche Erziehungsstile zugewiesen und bewertet.
 
-## PL: Sicherung
+## PL: Sicherung und Anwendung
 
 Fragen
 - Soll der Staat den Bürger erziehen?

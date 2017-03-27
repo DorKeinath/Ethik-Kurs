@@ -15,7 +15,7 @@ Die erste Hälfte der Schüler stellt gerechte Fälle vor.
 
 Die zweite Hälfte der Schüler stellt ungerechte Fälle vor.
 Welche Probleme ergeben sich aus dem Strafen?
-* Festellung des Straftatbestandes
+* Feststellung des Straftatbestandes
 * Strafmaß
 * Einschränkung des Täters durch den Strafenden, z.B. Freiheitsberaubung.
 
