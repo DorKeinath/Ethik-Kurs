@@ -1,3 +1,7 @@
+[pdf - mit gedrückter Strg-Taste anklicken](pdf/HO_Determination.pdf)
+
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/HO_Determination.pdf)
+
 # Physische Determination
 1. Welche Assoziationen haben Sie zu: "Physische Determination"?
 1. Inwiefern werden eure Entscheidungen oder Handlungen von physischen Gegebenheiten bestimmt?

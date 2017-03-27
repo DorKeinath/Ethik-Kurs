@@ -1,3 +1,7 @@
+[pdf - mit gedrückter Strg-Taste anklicken](pdf/HO_Kohlberg.pdf)
+
+[pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/HO_Kohlberg.pdf)
+
 # Das Kohlberg-Schema
 Lawrence Kohlbergs (1927-1987) sechs moralische Entwicklungsstufen
 
