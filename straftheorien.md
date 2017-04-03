@@ -54,3 +54,6 @@ Wann ist man schuldhaft?
 - Wenn man hätte anders handeln können.
 - Wenn man Einsicht in die Verwerflichkeit hätte haben können.
 => Ausnahmen: Schuldunfähig, Notstand (Rettung von Verwandten)
+
+<!-- Exkurs: humaner Strafvollzug (Abi 2002-6) -->
+<!-- Exkurs: Lebenslange Freiheitsstrafe (Abi 2007-31) -->

@@ -22,6 +22,18 @@
 4. Soziale
   * Erziehung, Bildung
 
+## PL: Freiheitsbegriffe **siehe Folie**
+* Willensfreiheit
+* Handlungsfreiheit
+* Moralische Freiheit
+* Wahlfreiheit
+* Positive vs. negative Freiheit
+
+## PL: Menschenbilder **siehe Folie**
+
+## Fichtes Begriff der Freiheit
+Auszug aus BdM B1: HO - Fichte BdM B1 - Nur Freiheit.
+
 ## PL: Freiheit vs. Zusammenleben und Moral
 
 * Paternalismus der Institutionen
@@ -34,13 +46,6 @@
 * Naturalismus
 * Verantwortung
 * Selbstbeschränkung
-
-## Freiheitsbegriffe
-* Willensfreiheit
-* Handlungsfreiheit
-* Moralische Freiheit
-* Wahlfreiheit
-* Positive vs. negative Freiheit
 
 
 <!-- TODO -->

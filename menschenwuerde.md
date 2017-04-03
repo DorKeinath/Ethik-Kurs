@@ -8,7 +8,7 @@ Diese Unterrichtsstunden orientieren sich am [Material der Fortbildung zur Mensc
 
 ## PL: Menschenrechte
 
-Folie mit **Grundgesetz** und freiem Zitat von **Bentham**. Kant ist kein Rechtsphilosoph, sondern ein Moralphilosoph, zumindest nicht im Sinne von positivem positivem Recht.
+Folie mit **Grundgesetz** und freiem Zitat von **Bentham**. Kant ist kein Rechtsphilosoph, sondern ein Moralphilosoph, zumindest nicht im Sinne von positivem Recht.
 
 ## WG: Fallvignetten
 
