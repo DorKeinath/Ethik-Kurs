@@ -11,6 +11,7 @@
   * [Organspende](organspende.md)
   * [Erziehungsstile](erziehungsstile.md)
   * [Kohlberg](kohlberg.md)
+  * [Mitleidsethik](mitleidsethik.md)
 
 * Unterrichtsstunden in J2
   * [Rawls](rawls.md)
