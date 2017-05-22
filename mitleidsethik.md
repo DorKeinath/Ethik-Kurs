@@ -1,4 +1,4 @@
-= Mitleidsethik: Schopenhauer (h21+h22) =
+= Mitleidsethik: Schopenhauer (h21-h23) =
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Mitleidsethik.html)
 
