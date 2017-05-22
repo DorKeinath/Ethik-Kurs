@@ -27,7 +27,8 @@
   * [GFS-Vorgaben](HOs/GFS-Vorgaben_Ethik_Kursstufe.md)
   * [Kant - Fragen zur Aufklärung](HOs/HO_Kant_Fragen-zur-Aufklaerung.md)
   * [Kohlberg](HOs/HO_Kohlberg.md)
-  * [Operatoren](HOs/Operatoren_BS_2016.pdf) <!-- [bpbw](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH_OP) -->
+  * [Operatoren](http://www.bildungsplaene-bw.de/,Lde/Startseite/BP2016BW_ALLG/BP2016BW_ALLG_GYM_ETH_OP)
+  <!-- HOs/Operatoren_BS_2016.pdf -->
   * [Protokoll](HOs/Protokoll.md)
   * [Rawls - Gehälter](HOs/HO_Rawls.md)
   * [Selbstbewertung der mündlichen Note](HOs/Selbstbewertung_Ethik.pdf)
