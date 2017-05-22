@@ -2,12 +2,6 @@
 
 [pdf auf GitHub](https://github.com/DorKeinath/Ethik-Kurs/blob/master/HOs/pdf/HO_Aristoteles.pdf)
 
-<div class="kopf">
-Moralphilosophie/Pflichtethik &ndash; Aristoteles (384-322 v. Chr.) <br>
-<!-- <div class="tags">
-Moral, Staat
-</div> -->
-
 Aristoteles' Tugendethik
 =========================
 <div class="lit">Auszüge aus: Aristoteles: <i>Nikomachische Ethik</i>. Quelle: <a href="http://www.zeno.org/nid/20009149929">http://www.zeno.org/nid/20009149929</a></div>
