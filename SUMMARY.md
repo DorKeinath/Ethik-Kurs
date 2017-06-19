@@ -12,6 +12,7 @@
   * [Erziehungsstile](erziehungsstile.md)
   * [Kohlberg](kohlberg.md)
   * [Mitleidsethik](mitleidsethik.md)
+  * [Freiheit vs. VDS](vds.md)
 
 * Unterrichtsstunden in J2
   * [Rawls](rawls.md)

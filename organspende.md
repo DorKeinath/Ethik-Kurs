@@ -8,12 +8,12 @@ Vorab: Organisation der [Organspendeausweise](http://www.bzga.de/infomaterialien
 Kurze Diskussion zum **Fall Dr. Burn**.
 
 # GA: Pro und Kontra Organspende
-Die Schüler notieren Pro- und Kontra-Argumente auf zwei Plakaten.
+Die Schüler notieren Pro- und Kontra-Argumente auf zwei Tafelseiten.
 
 # EA+GA: Texte
 Jeder Schüler liest das *Handout mit Informationen zur Organspende*.
 
-Anschließend lesen die Schüler *gruppenteilig* verschiedene Handouts zum Thema Organspende und ergänzen die Plakate
+Anschließend lesen die Schüler *gruppenteilig* verschiedene Handouts zum Thema Organspende und ergänzen die Tafelseiten.
 
 * Evangelische und katholische Kirche
 * Islam

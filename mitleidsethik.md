@@ -2,25 +2,25 @@
 
 [Slides](http://xcosx.de/mgb/keineph-slides/ethik-slides/Mitleidsethik.html)
 
-<!-- TOC depthFrom:1 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
+<!-- MDTOC maxdepth:6 firsth1:1 numbering:0 flatten:0 bullets:1 updateOnSave:1 -->
 
-- [Mitleidsethik](#mitleidsethik)
-	- [Schopenhauers Mitleidsethik](#schopenhauers-mitleidsethik)
-		- [PL: Brezel-Vergabe](#pl-brezel-vergabe)
-		- [EA: Auszug aus Schopenhauers Preisschrift](#ea-auszug-aus-schopenhauers-preisschrift)
-		- [PL: Besprechung](#pl-besprechung)
-		- [PL: Affekt vs. Mitleid](#pl-affekt-vs-mitleid)
-		- [PL: Bewertung](#pl-bewertung)
-	- [Kritik am Mitleidsbegriff](#kritik-am-mitleidsbegriff)
-		- [PA: Reflexion](#pa-reflexion)
-		- [WG: Textausschnitte zum Mitleidsbegriff](#wg-textausschnitte-zum-mitleidsbegriff)
-		- [PL: Bewertung](#pl-bewertung)
-	- [Das Gewissen](#das-gewissen)
-		- [PL: Diskussion anhand zweier Zitate](#pl-diskussion-anhand-zweier-zitate)
-		- [EA: Text von Höffe](#ea-text-von-höffe)
-		- [PL: Bewertung](#pl-bewertung)
+- [Mitleidsethik](#mitleidsethik)   
+   - [Schopenhauers Mitleidsethik](#schopenhauers-mitleidsethik)   
+      - [PL: Brezel-Vergabe](#pl-brezel-vergabe)   
+      - [EA: Auszug aus Schopenhauers Preisschrift](#ea-auszug-aus-schopenhauers-preisschrift)   
+      - [PL: Besprechung](#pl-besprechung)   
+      - [PL: Affekt vs. Mitleid](#pl-affekt-vs-mitleid)   
+      - [PL: Bewertung](#pl-bewertung)   
+   - [Kritik am Mitleidsbegriff](#kritik-am-mitleidsbegriff)   
+      - [PA: Reflexion](#pa-reflexion)   
+      - [WG: Textausschnitte zum Mitleidsbegriff](#wg-textausschnitte-zum-mitleidsbegriff)   
+      - [PL: Bewertung](#pl-bewertung)   
+   - [Das Gewissen und Moralkritik](#das-gewissen-und-moralkritik)   
+      - [PL: Diskussion anhand zweier Zitate](#pl-diskussion-anhand-zweier-zitate)   
+      - [EA: Text von Höffe](#ea-text-von-höffe)   
+      - [PL: Bewertung](#pl-bewertung)   
 
-<!-- /TOC -->
+<!-- /MDTOC -->
 
 # Mitleidsethik
 Ziel: Diskussion der ethischen Relevanz von Gefühlen.
@@ -53,9 +53,10 @@ Gegenüberstellung der Begriffe **Affekt und Mitleid** an der Tafel.
 1. Wie würde Schopenhauer im Welthunger-Dilemma reagieren?
 1. X, du willst heim, stimmt's? [Problem der Projektion]
 1. Ist jede gute Tat eine mitleidsvolle Tat?
-1. Zeichnet Mitleid eine moralisch gute Tat aus?
+1. Zeichnet Mitleid immer eine moralisch gute Tat aus?
 1. Was sagt Schopenhauer zu einer Frau, die bei einem Verkehrsunfall angehalten hat? [Problem der Motivations-Überprüfung.]
 1. Penner-Dilemma. „Wer von euch hat schonmal einem Bettler in Karlsruhe Geld in seine Box geworfen?“
+1. Welche Interpretation kann es von "Grundtriebfeder" geben? [(1) Grund = Haupt => Es gibt noch andere Motivationen, (2) Grund = Notwendig => Immer ist Mitleid vorhanden.]
 
 
 ## Kritik am Mitleidsbegriff
@@ -91,9 +92,11 @@ Die Schüler bearbeiten 3 Textausschnitte in 3 Gruppen. Im folgenden kann ich le
 * Wie kann man den Vorgang der Identifikation beschreiben?
 
 ### PL: Bewertung
-Dürfen Lehrer durch Appell an das Mitleid Schüler zu guten Taten motivieren?
+* Wie steht Schopenhauer zum Utilitarismus?
+* Welche Probleme hat eine Mitleidsethik?
+* Dürfen Lehrer durch Appell an das Mitleid Schüler zu guten Taten motivieren?
 
-## Das Gewissen
+## Das Gewissen und Moralkritik
 
 ### PL: Diskussion anhand zweier Zitate
 
