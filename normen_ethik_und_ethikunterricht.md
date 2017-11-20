@@ -21,7 +21,7 @@ In EA werden [soziale](https://de.wikipedia.org/wiki/Soziale_Norm) oder religiö
 
 Mögliche Fragen:
 
-- Welchen Sinn haben Normen?S
+- Welchen Sinn haben Normen?
 - Gelten Normen für jeden? überall?
 - Gelten sie immer/überzeitlich?
 - Was kann passieren, wenn man sich nicht an Normen hält?
