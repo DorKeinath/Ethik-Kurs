@@ -1,6 +1,6 @@
 = Wirtschaftsethik (J2) =
 
-[Slides](https://dorkeinath.github.io/slides_html/slides/Wirtschaftsethik.html)
+[Slides](https://dorkeinath.github.io/slides_html/ethik-slides/Wirtschaftsethik.html)
 
 ## PL: Fälle
 
