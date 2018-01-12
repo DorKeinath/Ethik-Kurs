@@ -18,6 +18,7 @@
   * [Rawls](rawls.md)
   * [Straftheorien](straftheorien.md)
   * [Menschenwürde](menschenwuerde.md)
+  * [Wirtschaftsethik](wirtschaftsethik.md)
   * [Freiheit](freiheit.md)
 
 * HOs
