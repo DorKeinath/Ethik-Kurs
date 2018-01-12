@@ -14,7 +14,7 @@ Folie mit **Grundgesetz** und freiem Zitat von **Bentham**. Kant ist kein Rechts
 
 [Fallvignetten](https://lehrerfortbildung-bw.de/u_gewi/ethik/gym/bp2004/fb2/1_wahr/unter/fallwin/)
 
-Während im Plenum die Fälle diskutiert werden, protokolliert ein Schüler die Fragen mit.
+Während im Plenum die Fälle diskutiert werden, protokolliert jemand die Fragen mit, z.B. auf einem [Piratenpad](https://piratenpad.de).
 
 ## PL: Zu klärende Fragen
 
@@ -25,11 +25,9 @@ Die protokollierten Fragen werden kategorisiert, z.B. wie die [Schwerpunkte](htt
 - Wie hängen Menschenwürde und Menschenrechte zusammen?
 - Welches Menschenbild ist impliziert?
 
-Die Fragen der Schüler werden in einem [Piratenpad](https://piratenpad.de) festgehalten.
-
 ### Beispiel Piratenpad
 
-**Fragen**
+1) Fragen
 
 1. Hängt die MW von den Umständen ab?
 2. Geht die MW über den Tod hinaus?
@@ -39,7 +37,7 @@ Die Fragen der Schüler werden in einem [Piratenpad](https://piratenpad.de) fest
 6. Welche Rolle spielt das Menschenbild für die MW?
 7. Inwiefern hängt die MW von der Normalität oder Kultur ab?
 
-**Antworten und Positionen zur Menschenwürde**
+2) Antworten und Positionen zur Menschenwürde
 *Sucht nach "Menschenwürde LFB Ethik" und klickt auf "analysieren".*
 
 1. Birnbacher
@@ -53,23 +51,15 @@ Die Fragen der Schüler werden in einem [Piratenpad](https://piratenpad.de) fest
 
 ### Textarbeit
 
-Die Schüler lesen einen oder mehrere der [Texte](https://lehrerfortbildung-bw.de/u_gewi/ethik/gym/bp2004/fb2/2_analyse/) und speichern ihre Notizen in einer Datei.
+Die Schüler lesen einen oder mehrere der [Texte](https://lehrerfortbildung-bw.de/u_gewi/ethik/gym/bp2004/fb2/2_analyse/) und speichern ihre Notizen in einer Datei. Dabei geben sie die Antworten ihres Philosophen auf die obigen Fragen.
 
-### Präsentation
-
-Die Schüler stellen vor, was sie erarbeitet und was sich dazu überlegt haben.
-
-### PA: Anwendung auf einen Fall
+### Anwendung auf einen Fall
 
 Die Schüler wenden ihre Erkenntnisse auf einen Fall der Fallvignetten an. Die Aufgabenstellung finden sie auf der **Folie**.
 
-### Zusammenführung
+## Zusammenführung
 
-Die Schüler kopieren ihre Notizen ins obige Piratenpad.
-
-### Synopse der Positionen
-
-Die Schüler ergänzen Antworten auf ihre Fragen und nennen dabei die Autorität.
+Die Schüler drucken ihr Dokument aus, der Lehrer kopiert.
 
 ## HA: Kommentar einer aktuellen Würdeverletzung
 
