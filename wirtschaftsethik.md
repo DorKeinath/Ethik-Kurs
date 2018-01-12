@@ -1,5 +1,11 @@
-= Wirtschaftsethik (J1) =
+= Wirtschaftsethik (J2) =
 
-[Slides]()
+[Slides](https://dorkeinath.github.io/slides_html/slides/Wirtschaftsethik.html)
 
-# Wirtschaftsethik
+## PL: Fälle
+
+siehe Slides
+
+## PL, EA: Sandel
+
+Erarbeitung der Hauptthesen und der beiden Hauptargumente Sandels.
