@@ -20,6 +20,7 @@
   * [Menschenwürde](menschenwuerde.md)
   * [Wirtschaftsethik](wirtschaftsethik.md)
   * [Freiheit](freiheit.md)
+  * [Sartre](sartre.md)
 
 * HOs
   * [Aristoteles](HOs/HO_Aristoteles.md)
