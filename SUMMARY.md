@@ -21,6 +21,7 @@
   * [Wirtschaftsethik](wirtschaftsethik.md)
   * [Freiheit](freiheit.md)
   * [Sartre](sartre.md)
+  * [Religion](religion.md)
 
 * HOs
   * [Aristoteles](HOs/HO_Aristoteles.md)
