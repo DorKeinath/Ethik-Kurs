@@ -2,7 +2,7 @@
 
 [Slides](https://dorkeinath.github.io/slides_html/ethik-slides/Religion.html#/)
 
-# Prädestionation und Theodizee-Problem
+# Erste Doppelstunde: Gottesbeweis, Prädestination, Theodizee-Problem
 
 1. [Youtube-Video Spin DJ](https://www.youtube.com/watch?v=oP59tQf_njc)
 * Interpretation des Films
@@ -24,24 +24,27 @@
     + Gott ist gütig, weil er manche rettet, obwohl er es nicht muss.
     + Gott als Aristoteliker: Mesotes-Lehre
 
-# Definition von Religiosität
+4. Anselms Gottesbeweis
+
+# Zweite Doppelstunde: Religionsbegriff und -kritik
+
+## Definition von Religiosität
 
 5. HL 2/2013 von Hugo Gomille: Die gottlosen Gläubigen
 6. Slides: Zitate von Einstein
 
-# Bridge zu Religionskritik
+## Bridge zu Religionskritik
 
-Die Toten Hosen: *Paradies* [Offizielles Video](https://www.youtube.com/watch?v=Gq2BUsuELsA) [Live](https://www.youtube.com/watch?v=W5NMW9GYYCk)
+1. Die Toten Hosen: *Paradies* [Offizielles Video](https://www.youtube.com/watch?v=Gq2BUsuELsA) [Live](https://www.youtube.com/watch?v=W5NMW9GYYCk)
+2. PhiloMag 02/2016 Religion macht Kinder weniger altruistisch
 
-# Religionskritik
+## Religionskritik
 Ziel: Übergreifendes Merkmal aller Religionskritik: Aufklärung, rationale Aspekte gegen bestehende Religionen.
 
-1. PhiloMag 02/2016 Religion macht Kinder weniger altruistisch
 1. Marx
 1. Höffe
 1. Feuerbach
 1. Nietzsche
-
 
 ## Optionale Vertiefungen
 * Leibniz' Theodizee
@@ -52,7 +55,7 @@ Ziel: Übergreifendes Merkmal aller Religionskritik: Aufklärung, rationale Aspe
         + Gegen Gott als Willkür-Gott
         + Gegen das Prinzip des Stärkeren
         + Menschen ahmen Gott nach  Falsches Gottesbild  Schlechte Menschen
-* Gottesbeiwese (Wikipedia, HWPh, Spaemann, Hirschberger, Anselm)
+* Gottesbeiwese (Wikipedia, HWPh, Spaemann, Hirschberger)
 * Mohamed. Eine Abrechnung
 * Dalai Lama: Ethik ist wichtiger als Religion
 * Spinoza: Freiheit als Lassen vom eignen Willen. Begriff der Gnade.
