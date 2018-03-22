@@ -26,3 +26,7 @@ Ausgehend von vier Reaktionen auf eine **Autopanne** (HO noch nicht online) und 
 ## Der gute Wille
 
 Nach der Lektüre des **Originaltextes zum guten Willen** (GMS 393f, noch nicht online), werden alle behandelten Hauptbegriffe Kants in Zusammenhang gebracht: **Schema** (noch nicht online).
+
+## Kritik an Kant
+
+Besprechung möglicher Kritik an Kant.
