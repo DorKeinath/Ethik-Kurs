@@ -6,7 +6,7 @@
   * [Aristoteles' Tugendethik](aristoteles.md)
   * [Benthams Utilitarismus](utilitarismus_Bentham.md)
   * [Werte-Spiel](werte-spiel.md)
-  * [Kants Deontologische Ethik](kant_j1.md)
+  * [Kants deontologische Ethik](kant_j1.md)
   * [Terror - Ihr Urteil](terror_ihr_urteil.md)
   * [Organspende](organspende.md)
   * [Erziehungsstile](erziehungsstile.md)
