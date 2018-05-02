@@ -4,8 +4,18 @@
 
 # Erziehung
 
-Siehe Slides, zu Juuls und Bergmann sind die Handouts bisher nur offline verfügbar.
+Siehe Slides, zu Juul und Bergmann sind die Handouts bisher nur *offline* verfügbar.
 
-* Rousseau
-* Juuls
-* Bergmann
+## Rousseau
+
+Mündlich.
+
+## Juul
+
+Jesper Juul: "Aus Erziehung wird Beziehung"
+
+Partnerarbeit anhand von Auszügen und Fragen zu den Auszügen.
+
+## Bergmann
+
+HO.
