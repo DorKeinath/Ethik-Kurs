@@ -23,6 +23,7 @@
   * [Sartre](sartre.md)
   * [Religion](religion.md)
   * [Kants Hauptbegriffe](kant_j2.md)
+  * [Erziehung](erziehung.md)
 
 * HOs
   * [Aristoteles](HOs/HO_Aristoteles.md)
